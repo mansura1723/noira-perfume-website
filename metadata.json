@@ -1,0 +1,6 @@
+{
+  "name": "NOIRA — Haute Parfumerie",
+  "description": "NOIRA is a Parisian luxury fragrance house crafting rare extraits de parfum, architectural flacons, and unforgettable olfactory signatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
